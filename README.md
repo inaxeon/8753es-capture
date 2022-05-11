@@ -2,6 +2,9 @@
 
 A simple python script/example to save a screenshot from the 8753ES network analyzer via GPIB.
 
+Output is HPGL only. The only free software I know of which can read the output from these instruments
+is HPGLVIEW from CERN (https://service-hpglview.web.cern.ch/service-hpglview/)
+
 ### Prerequisites
 
 * Python 2.7 or 3.4+
